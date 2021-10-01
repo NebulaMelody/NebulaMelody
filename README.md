@@ -1,4 +1,4 @@
-### Hello there! Welcome to my profile.
+### Hello there! Welcome to my profile. I'm NebulaMeody! Just a person who wants to makes games, currently learning CSS and HTML in my classes!
 
 <!--
 **NebulaMelody/NebulaMelody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
